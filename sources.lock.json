@@ -1,0 +1,16 @@
+{
+  "jiten_freq_global.zip": {
+    "name": "jiten_freq_global.zip",
+    "address": "https://api.jiten.moe/api/frequency-list/download",
+    "kind": "url",
+    "version": "2026-11-23",
+    "sha256": "d4ff72fa5b3c3d18f43f0b5968221e2a845b8aa45a02a615aaeb61036881f4ce"
+  },
+  "jiten_kanji_freq.zip": {
+    "name": "jiten_kanji_freq.zip",
+    "address": "https://api.jiten.moe/api/frequency-list/download-kanji",
+    "kind": "url",
+    "version": "2026-11-23",
+    "sha256": "091d936f42f47e97e9f0cae991014f5897c9c5a7825f2e2eb3a0aae03ec52cf4"
+  }
+}
