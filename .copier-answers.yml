@@ -1,6 +1,6 @@
 # Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
 _commit: v0.4.1
-_src_path: gh:dariyooo/dalang-dict-utils
+_src_path: gh:dariyooo/dalang-dict-authoring
 committed_outputs: ''
 dalang_dict_utils_tag: v0.4.1
 description: Jiten's word and kanji frequency lists for Yomitan and DaKanji
